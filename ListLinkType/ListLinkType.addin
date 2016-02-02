@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command ListLinkType</Text>
+    <Description>Some description for ListLinkType</Description>
+    <Assembly>ListLinkType.dll</Assembly>
+    <FullClassName>ListLinkType.Command</FullClassName>
+    <ClientId>2234f9ff-9a54-4a89-9cc1-b1947194e1ed</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
